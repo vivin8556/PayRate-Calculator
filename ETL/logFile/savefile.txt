@@ -1,0 +1,178 @@
+module 8,slot 8
+----------------------
+No time
+null
+Unknown
+6.2(9)
+null
+No time
+Unknown
+
+6.2(9)
+null
+At 866369 usecs after Tue Oct 14 22:58:50 2014
+Reset triggered due to Switchover Request by User
+
+6.2(9)
+At 456275 usecs after Tue Oct 14 21:38:09 2014
+Reset triggered due to Switchover Request by User
+SAP(93): Swover due to install
+6.2(1)
+
+module 8,slot 7
+---------------------
+At 304979 usecs after Mon Oct 20 22:12:06 2014
+Reset due to upgrade
+null
+6.2(9)
+
+At 535911 usecs after Tue Oct 14 23:13:38 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 650846 usecs after Tue Feb  5 00:43:02 2013
+Reset due to upgrade
+null
+5.2(1)
+
+No time
+Unknown
+null
+null
+
+module 7,slot 8
+-------------------------
+At 419919 usecs after Mon Oct 20 22:30:44 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 474566 usecs after Tue Oct 14 22:14:07 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 606096 usecs after Tue Oct 14 21:34:08 2014
+Reset due to upgrade
+null
+6.2(1)
+
+At 781030 usecs after Thu May  2 18:03:34 2013
+Reset due to upgrade
+null
+5.2(8)
+
+module 7,slot 7
+-------------------------
+No time
+Unknown
+null
+6.2(9a)
+
+At 298016 usecs after Mon Oct 20 22:15:58 2014
+Reset triggered due to Switchover Request by User
+SAP(93): Swover due to install
+6.2(9)
+
+No time
+Unknown
+null
+6.2(9)
+
+At 709777 usecs after Tue Oct 14 21:59:10 2014
+Reset triggered due to Switchover Request by User
+null
+6.2(9)
+*********************************************************
+Tue Feb  5 02:11:44 2013
+713 days, 13 hours, 47 minutes, 32 seconds
+90 days, 15 hours, 37 minutes, 41 seconds
+*********************************************************
+module 7,slot 7
+---------------------------
+No time
+Unknown
+null
+6.2(9a)
+
+At 298016 usecs after Mon Oct 20 22:15:58 2014
+Reset triggered due to Switchover Request by User
+SAP(93): Swover due to install
+6.2(9)
+
+No time
+Unknown
+null
+6.2(9)
+
+At 709777 usecs after Tue Oct 14 21:59:10 2014
+Reset triggered due to Switchover Request by User
+null
+6.2(9)
+
+module 7,slot 8
+--------------------------
+At 419919 usecs after Mon Oct 20 22:30:44 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 474566 usecs after Tue Oct 14 22:14:07 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 606096 usecs after Tue Oct 14 21:34:08 2014
+Reset due to upgrade
+null
+6.2(1)
+
+At 781030 usecs after Thu May  2 18:03:34 2013
+Reset due to upgrade
+null
+5.2(8)
+
+module 8,slot 7
+---------------------------------
+At 304979 usecs after Mon Oct 20 22:12:06 2014
+Reset due to upgrade
+null
+6.2(9)
+
+At 535911 usecs after Tue Oct 14 23:13:38 2014
+Reset Requested due to Fatal Module Error
+NTP
+6.2(9)
+
+At 650846 usecs after Tue Feb  5 00:43:02 2013
+Reset due to upgrade
+null
+5.2(1)
+
+No time
+Unknown
+null
+null
+
+module 8,slot 8
+-----------------------------------
+No time
+Unknown
+null
+6.2(9)
+
+No time
+Unknown
+null
+6.2(9)
+
+At 866369 usecs after Tue Oct 14 22:58:50 2014
+Reset triggered due to Switchover Request by User
+null
+6.2(9)
+
+At 456275 usecs after Tue Oct 14 21:38:09 2014
+Reset triggered due to Switchover Request by User
+SAP(93): Swover due to install
+6.2(1)
